@@ -1,7 +1,7 @@
 name: Fire Everything
 favicon: null
 layout_spectrum: 0.47816125210374594
-typography_spectrum: 0.3948482205159962
+typography_spectrum: 0.28428
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#f5e4d8'
+    - '#372723'
+    - '#edba81'
+    - '#070000'
+    - '#8d613c'
   brandStrength: 0.0625
   lightness: 0.3037689521443099
   saturation: 0.8194932825863361
