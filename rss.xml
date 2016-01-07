@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Fire Everything]]></title>
+        <description><![CDATA[Fire Everything]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 07 Jan 2016 01:16:20 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Act I]]></title>
+            <description><![CDATA[<article><h1>Act I</h1><p>Oh for a muse of fire, that would ascend the brightest heaven of invention!</p></article>]]></description>
+            <link>undefinedact-i/index.html</link>
+            <guid isPermaLink="false">e5aba881-6963-45f6-94c7-032031acbefd</guid>
+            <pubDate>Thu, 07 Jan 2016 01:16:12 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
