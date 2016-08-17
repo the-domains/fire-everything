@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Fire Everything]]></title>
-        <description><![CDATA[Fire Everything]]></description>
+        <title><![CDATA[Don't know how to design? Me neither! ]]></title>
+        <description><![CDATA[Don't know how to design? Me neither! ]]></description>
         <link>https://thegrid.ai/fire-everything/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Aug 2016 02:31:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2016 03:21:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/fire-everything/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>About two weeks ago I started to learn how to use Sketch. I had wanted to design for a long time and finally had the opportunity to purchase a license, get some tutorials, and open my first blank template. </p>]]></description>
             <link>https://thegrid.ai/fire-everything/about-two-weeks-ago-i-started-to-learn-how-to-use-sketch-i/index.html</link>
             <guid isPermaLink="false">fbab3910-8660-4e60-a97c-7df0fd61ebd0</guid>
-            <pubDate>Wed, 17 Aug 2016 02:31:11 GMT</pubDate>
+            <pubDate>Wed, 17 Aug 2016 03:21:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
