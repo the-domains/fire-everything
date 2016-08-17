@@ -8,16 +8,16 @@ description: >-
   About two weeks ago I started to learn how to use Sketch. I had wanted to
   design for a long time and finally had the opportunity to purchase a license,
   get some tutorials, and open my first blank template. 
-datePublished: '2016-08-17T02:31:11.120Z'
-dateModified: '2016-08-17T02:28:03.118Z'
+datePublished: '2016-08-17T03:21:36.342Z'
+dateModified: '2016-08-17T02:33:06.731Z'
 title: ''
 author: []
 via: {}
+sourcePath: >-
+  _posts/2016-08-17-about-two-weeks-ago-i-started-to-learn-how-to-use-sketch-i.md
 authors: []
 publisher: {}
 starred: false
-sourcePath: >-
-  _posts/2016-08-17-about-two-weeks-ago-i-started-to-learn-how-to-use-sketch-i.md
 url: about-two-weeks-ago-i-started-to-learn-how-to-use-sketch-i/index.html
 _type: Article
 
